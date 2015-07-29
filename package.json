@@ -1,0 +1,17 @@
+{
+  "name": "refundnotes",
+  "version": "0.0.1",
+  "description": "refundnotes",
+  "main": "server.js",
+  "author": {
+    "name": "Richard",
+    "email": "r.schubert@meteogroup.com"
+  },
+  "dependencies": {
+    "atob": "^1.1.2",
+    "emailjs": "*",
+    "netmask": "^1.0.4",
+    "tumblrwks": "*",
+    "twit": "^2.1.0"
+  }
+}
